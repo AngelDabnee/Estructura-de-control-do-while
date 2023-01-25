@@ -1,0 +1,15 @@
+C:\Users\master\source\repos\estructuraDeControldoWhile\estructuraDeControldoWhile\obj\Debug\net7.0\estructuraDeControldoWhile.csproj.AssemblyReference.cache
+C:\Users\master\source\repos\estructuraDeControldoWhile\estructuraDeControldoWhile\obj\Debug\net7.0\estructuraDeControldoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\master\source\repos\estructuraDeControldoWhile\estructuraDeControldoWhile\obj\Debug\net7.0\estructuraDeControldoWhile.AssemblyInfoInputs.cache
+C:\Users\master\source\repos\estructuraDeControldoWhile\estructuraDeControldoWhile\obj\Debug\net7.0\estructuraDeControldoWhile.AssemblyInfo.cs
+C:\Users\master\source\repos\estructuraDeControldoWhile\estructuraDeControldoWhile\obj\Debug\net7.0\estructuraDeControldoWhile.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\estructuraDeControldoWhile\estructuraDeControldoWhile\bin\Debug\net7.0\estructuraDeControldoWhile.exe
+C:\Users\master\source\repos\estructuraDeControldoWhile\estructuraDeControldoWhile\bin\Debug\net7.0\estructuraDeControldoWhile.deps.json
+C:\Users\master\source\repos\estructuraDeControldoWhile\estructuraDeControldoWhile\bin\Debug\net7.0\estructuraDeControldoWhile.runtimeconfig.json
+C:\Users\master\source\repos\estructuraDeControldoWhile\estructuraDeControldoWhile\bin\Debug\net7.0\estructuraDeControldoWhile.dll
+C:\Users\master\source\repos\estructuraDeControldoWhile\estructuraDeControldoWhile\bin\Debug\net7.0\estructuraDeControldoWhile.pdb
+C:\Users\master\source\repos\estructuraDeControldoWhile\estructuraDeControldoWhile\obj\Debug\net7.0\estructuraDeControldoWhile.dll
+C:\Users\master\source\repos\estructuraDeControldoWhile\estructuraDeControldoWhile\obj\Debug\net7.0\refint\estructuraDeControldoWhile.dll
+C:\Users\master\source\repos\estructuraDeControldoWhile\estructuraDeControldoWhile\obj\Debug\net7.0\estructuraDeControldoWhile.pdb
+C:\Users\master\source\repos\estructuraDeControldoWhile\estructuraDeControldoWhile\obj\Debug\net7.0\estructuraDeControldoWhile.genruntimeconfig.cache
+C:\Users\master\source\repos\estructuraDeControldoWhile\estructuraDeControldoWhile\obj\Debug\net7.0\ref\estructuraDeControldoWhile.dll
